@@ -1,3 +1,13 @@
+# Landing Page sencilla de empresa de cajas
+
+# Tecnologías utilizadas:
+
+-HTML
+
+-CSS
+
+-JavaScript
+
 # Portada de la web
 
 ![portada](images/Readme/1.png)
@@ -37,7 +47,7 @@
 
 ![portada](images/Readme/9.png)
 
-# Menu lateral 
+# Menú lateral 
 
 ![portada](images/Readme/10.png)
 
