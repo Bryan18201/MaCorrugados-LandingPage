@@ -1,53 +1,70 @@
-# Landing Page sencilla de empresa de cajas
+# MaCorrugados Landing Page
 
-# Tecnologías utilizadas:
+A fully functional sample project from Landing Page for any business or personal project, create using the following technologies:
 
--HTML
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
--CSS
+ ## Table of contents:
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [License](#license)
+- [Screenshots](#screenshots)
 
--JavaScript
 
-# Portada de la web
+## Demo 
+
+Live project: https://macorrugados.netlify.app/
+
+ ## Installation
+
+ git clone https://github.com/MaCorrugados-LandingPage
+ 
+ cd MaCorrugados-LandingPage
+
+ ## Usage
+
+ Open index.html or use open server plugin in visual studio code
+
+ ## Contribution
+
+If you want to contribute to this project, follow these steps:
+
+1-Fork the repository.
+
+2-Create a new branch for your contribution.
+
+3-Make your changes and improvements.
+
+4-Submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License https://opensource.org/license/mit/.
+
+
+# Screenshots
 
 ![portada](images/Readme/1.png)
 
-
-# Acerca de
-
 ![portada](images/Readme/2.png)
-
-
-# Servicios
 
 ![portada](images/Readme/3.png)
 
-
-# Proyectos
-
 ![portada](images/Readme/4.png)
-
-# Opiniones
 
 ![portada](images/Readme/5.png)
 
-# Precios
-
 ![portada](images/Readme/6.png)
-
-# Contactos 
 
 ![portada](images/Readme/7.png)
 
-# Blogs
-
 ![portada](images/Readme/8.png)
 
-# Footer
-
 ![portada](images/Readme/9.png)
-
-# Menú lateral 
 
 ![portada](images/Readme/10.png)
 
