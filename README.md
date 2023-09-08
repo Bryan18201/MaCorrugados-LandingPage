@@ -8,7 +8,6 @@ A fully functional sample project from Landing Page for any business or personal
 
  ## Table of contents:
 - [Demo](#demo)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [License](#license)
@@ -19,15 +18,17 @@ A fully functional sample project from Landing Page for any business or personal
 
 Live project: https://macorrugados.netlify.app/
 
- ## Installation
 
- git clone https://github.com/MaCorrugados-LandingPage
- 
- cd MaCorrugados-LandingPage
+
 
  ## Usage
+  1- Download the project
 
- Open index.html or use open server plugin in visual studio code
+2- Open in your ide favorite
+ 
+ 3- cd MaCorrugados-LandingPage
+
+ 4- Open index.html or use open server plugin in visual studio code
 
  ## Contribution
 
